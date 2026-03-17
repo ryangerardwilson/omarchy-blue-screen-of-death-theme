@@ -24,6 +24,7 @@ omarchy-theme-set blue_screen_of_death
 ## Included Overrides
 
 - `colors.toml` for Omarchy-generated theme files
+- `btop.theme` for a readable blue/white system monitor palette
 - `alacritty.toml` to keep terminal text white on the BSOD blue background
 - `hyprland.conf` for white active borders and light-gray inactive borders
 - `neovim.lua`, `vscode.json`, and `icons.theme` for app-specific alignment

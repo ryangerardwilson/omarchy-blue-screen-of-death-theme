@@ -1,0 +1,83 @@
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#0078d7"
+
+# Main text color
+theme[main_fg]="#ffffff"
+
+# Title color for boxes
+theme[title]="#ffffff"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#ffffff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#005a9e"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#d9d9d9"
+
+# Color of text appearing on top of graphs, i.e uptime and current network graph scaling
+theme[graph_text]="#ffffff"
+
+# Background color of the percentage meters
+theme[meter_bg]="#329aef"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#ffffff"
+
+# CPU, Memory, Network, Proc box outline colors
+theme[cpu_box]="#ffffff"
+theme[mem_box]="#f2f2f2"
+theme[net_box]="#d9d9d9"
+theme[proc_box]="#ffffff"
+
+# Box divider line and small boxes line color
+theme[div_line]="#d9d9d9"
+
+# Temperature graph color
+theme[temp_start]="#ffffff"
+theme[temp_mid]="#d9ecff"
+theme[temp_end]="#88c3ff"
+
+# CPU graph colors
+theme[cpu_start]="#ffffff"
+theme[cpu_mid]="#d9ecff"
+theme[cpu_end]="#58b2f6"
+
+# Mem/Disk free meter
+theme[free_start]="#ffffff"
+theme[free_mid]="#d9ecff"
+theme[free_end]="#88c3ff"
+
+# Mem/Disk cached meter
+theme[cached_start]="#f2f8ff"
+theme[cached_mid]="#d9ecff"
+theme[cached_end]="#58b2f6"
+
+# Mem/Disk available meter
+theme[available_start]="#ffffff"
+theme[available_mid]="#cfeaff"
+theme[available_end]="#88c3ff"
+
+# Mem/Disk used meter
+theme[used_start]="#ffffff"
+theme[used_mid]="#d9ecff"
+theme[used_end]="#58b2f6"
+
+# Download graph colors
+theme[download_start]="#ffffff"
+theme[download_mid]="#d9ecff"
+theme[download_end]="#88c3ff"
+
+# Upload graph colors
+theme[upload_start]="#ffffff"
+theme[upload_mid]="#d9ecff"
+theme[upload_end]="#58b2f6"
+
+# Process box color gradient for threads, mem and cpu usage
+theme[process_start]="#ffffff"
+theme[process_mid]="#d9ecff"
+theme[process_end]="#58b2f6"
