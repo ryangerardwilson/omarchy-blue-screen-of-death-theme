@@ -1,4 +1,4 @@
-# blue_screen_of_death
+# blue-screen-of-death
 
 An Omarchy extra theme inspired by the Windows Blue Screen of Death, but rewritten as a thank-you note for finally pushing us to Linux.
 
@@ -11,14 +11,14 @@ This repository follows Omarchy's extra-theme layout:
 ## Install
 
 ```bash
-omarchy-theme-install https://github.com/ryangerardwilson/omarchy-blue_screen_of_death-theme.git
+omarchy-theme-install https://github.com/ryangerardwilson/omarchy-blue-screen-of-death-theme.git
 ```
 
 If you clone it manually:
 
 ```bash
-git clone https://github.com/ryangerardwilson/omarchy-blue_screen_of_death-theme.git ~/.config/omarchy/themes/blue_screen_of_death
-omarchy-theme-set blue_screen_of_death
+git clone https://github.com/ryangerardwilson/omarchy-blue-screen-of-death-theme.git ~/.config/omarchy/themes/blue-screen-of-death
+omarchy-theme-set blue-screen-of-death
 ```
 
 ## Included Overrides
@@ -32,4 +32,4 @@ omarchy-theme-set blue_screen_of_death
 
 ## Preview
 
-![blue_screen_of_death preview](preview.png)
+![blue-screen-of-death preview](preview.png)
