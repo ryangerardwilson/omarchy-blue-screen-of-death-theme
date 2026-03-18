@@ -13,20 +13,20 @@ text = "#0078d7"
 cursor = "#ffffff"
 
 [colors.search.matches]
-foreground = "#ffffff"
-background = "#005a9e"
+foreground = "#0078d7"
+background = "#ffffff"
 
 [colors.search.focused_match]
-foreground = "#ffffff"
-background = "#0037da"
+foreground = "#0078d7"
+background = "#ffffff"
 
 [colors.footer_bar]
-foreground = "#ffffff"
-background = "#005a9e"
+foreground = "#0078d7"
+background = "#ffffff"
 
 [colors.selection]
-text = "#ffffff"
-background = "#005a9e"
+text = "#0078d7"
+background = "#ffffff"
 
 [colors.normal]
 black = "#ffffff"

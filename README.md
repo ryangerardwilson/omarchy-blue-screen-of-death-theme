@@ -25,9 +25,10 @@ omarchy-theme-set blue-screen-of-death
 
 - `colors.toml` for Omarchy-generated theme files
 - `btop.theme` for a readable blue/white system monitor palette
-- `alacritty.toml` to keep terminal text white on the BSOD blue background
+- `alacritty.toml` to keep terminal text white on the BSOD blue background, with white highlights and blue selected text
 - `hyprland.conf` for white active borders and light-gray inactive borders
 - `tmux.conf` for white-background, blue-text tmux UI elements
+- `blue_screen_of_death.tmTheme` for Codex syntax and code-edit blocks on BSOD blue instead of dark gray
 - `neovim.lua`, `vscode.json`, and `icons.theme` for app-specific alignment
 - `wallpaper.svg`, `preview.png`, and `backgrounds/0-blue-screen-of-death.png`
 
