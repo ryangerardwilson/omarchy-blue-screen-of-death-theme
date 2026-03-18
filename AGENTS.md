@@ -6,19 +6,15 @@ This repo owns the `blue-screen-of-death` Omarchy theme.
 
 ## Source Of Truth
 
-- The repo contents are the source of truth.
-- The installed copy under
-  `~/.config/omarchy/themes/blue-screen-of-death` is only a deployed theme
-  copy.
+- This repo lives at `~/.config/omarchy/themes/blue-screen-of-death` and is the
+  local source of truth.
+- Do not maintain a second long-lived clone elsewhere for normal theme work.
 
 ## Editing Workflow
 
-- Make durable theme edits in this repo first.
-- Direct edits in the installed theme directory are allowed only for quick
-  local testing.
-- Once a direct config edit is validated, port it back into this repo before
-  finishing the task.
-- Do not leave the repo and the installed theme intentionally diverged.
+- Make durable theme edits directly in this repo.
+- Since this repo is also the installed theme directory, avoid copy-back
+  workflows and avoid duplicate local clones.
 
 ## Release Workflow
 
