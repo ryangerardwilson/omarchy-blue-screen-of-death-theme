@@ -158,7 +158,7 @@
       <key>name</key>
       <string>Code Edit Blocks</string>
       <key>scope</key>
-      <string>source.diff, meta.diff, meta.diff.header, meta.diff.range, markup.changed, diff.changed, markup.modified, diff.modified</string>
+      <string>source.diff, meta.diff, meta.diff.header, meta.diff.header.from-file, meta.diff.header.to-file, meta.diff.range, meta.diff.separator, meta.separator.diff, punctuation.definition.separator.diff, punctuation.definition.range.diff, punctuation.definition.from-file.diff, punctuation.definition.to-file.diff, punctuation.definition.changed, punctuation.definition.changed.diff, markup.changed, diff.changed, markup.modified, diff.modified</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -171,7 +171,7 @@
       <key>name</key>
       <string>Diff Inserted</string>
       <key>scope</key>
-      <string>markup.inserted, diff.inserted</string>
+      <string>markup.inserted, diff.inserted, markup.inserted.diff, diff.inserted.diff, punctuation.definition.inserted, punctuation.definition.inserted.diff</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -184,7 +184,7 @@
       <key>name</key>
       <string>Diff Deleted</string>
       <key>scope</key>
-      <string>markup.deleted, diff.deleted</string>
+      <string>markup.deleted, diff.deleted, markup.deleted.diff, diff.deleted.diff, punctuation.definition.deleted, punctuation.definition.deleted.diff</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
